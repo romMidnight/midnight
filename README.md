@@ -76,13 +76,13 @@ I often experiment and try different things, I want to be _avant-garde_ of softw
 
 ## Skills
 
-**English Russian Georgian**
+English Russian Georgian
 
-**javascript typescript express hapi koa mongo graphql c/c++ postgresql sqlite**
+javascript typescript express hapi koa mongo graphql c/c++ postgresql sqlite
 
-**serverless jamstack ssr gatsbyjs nextjs react tailwindcss**
+serverless jamstack ssr gatsbyjs nextjs react tailwindcss
 
-**CI/CD git jest tdd bdd AWS docker netlify**
+CI/CD git jest tdd bdd AWS docker netlify
 
 <br/>
 
