@@ -1,19 +1,19 @@
 ## Hi, I'm Roma 👋
 
-#### I am fond of software development :computer:
+#### I am fond of Software development :computer:
 
 I started programming 5 years ago with c/c++, after two years I realized I wanted to spend less time with system environment and more time with business logic.
 On quest to find more developer friendly tools, I met javascript, on which I've been coding happily since.
 
-#### I am fond of reading :books:
+#### I am fond of Reading :books:
 
 I enjoy reading, will it be some tool documentation or literature. Generally, human traits and emotions are super interesting things to me, that's why I prefer reading japanese novels. My favorite Japanese novel is [Kokoro](https://en.wikipedia.org/wiki/Kokoro).
 
-#### I am fond of psychology and spirituality :evergreen_tree:
+#### I am fond of Psychology and Spirituality :evergreen_tree:
 
 I try to be more kind, disciplined and efficient. Overpowering your fears and admitting your failures are necessary for moving forward and keeping clarity of mind. My favorite book about human inner workings is [Zen Buddhism and Psychoanalysis](https://www.goodreads.com/book/show/25493.Zen_Buddhism_and_Psychoanalysis).
 
-#### I am fond of art :art:
+#### I am fond of Art :art:
 
 I am crazy about imagery that challenges our way of perceiving reality. Irrational, shocking, Freudian dream, these words can help you describe what I enjoy: _Surrealism_! My favorite movie is [Jodorowsky's Holy Mountain](<https://en.wikipedia.org/wiki/The_Holy_Mountain_(1973_film)>).
 
