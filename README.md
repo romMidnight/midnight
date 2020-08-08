@@ -9,9 +9,9 @@ On quest to find more developer friendly tools, I met javascript, on which I've 
 
 I enjoy reading, will it be some tool documentation or literature. Generally, human traits and emotions are super interesting things to me, that's why I prefer reading japanese novels. My favorite Japanese novel is [Kokoro](https://en.wikipedia.org/wiki/Kokoro).
 
-#### I am fond of Psychology and Spirituality :evergreen_tree:
+#### I am fond of Psychology :evergreen_tree:
 
-I try to be more kind, disciplined and efficient. Overpowering your fears and admitting your failures are necessary for moving forward and keeping clarity of mind. My favorite book about human inner workings is [Zen Buddhism and Psychoanalysis](https://www.goodreads.com/book/show/25493.Zen_Buddhism_and_Psychoanalysis).
+I try to be more kind, disciplined, efficient and self reflective. Overpowering your fears and admitting your failures are necessary for moving forward and keeping clarity of mind. To expand consciousness one must be aware of its unconsciousness. My favorite book about human inner workings is [Zen Buddhism and Psychoanalysis](https://www.goodreads.com/book/show/25493.Zen_Buddhism_and_Psychoanalysis).
 
 #### I am fond of Art :art:
 
